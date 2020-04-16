@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="20px" viewBox="0 0 17 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>thunderstorm</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="thunderstorm" fill="#000000" fill-rule="nonzero">
+            <path d="M13.4,11.1 L10.3,11.1 C10.1,11.1 10,11 10,10.8 C10,10.6 10.1,10.5 10.3,10.5 L13.4,10.5 C14.6,10.5 15.6,9.5 15.6,8.3 C15.6,7.2 14.8,6.3 13.8,6.2 C13.4,6.2 13.2,5.6 13.2,5.3 C13.2,2.8 10.8,0.8 7.9,0.8 C5,0.8 2.6,2.8 2.6,5.3 C2.6,6.2 1.8,6.4 1.8,6.4 C1,6.8 0.5,7.5 0.5,8.4 C0.5,9.6 1.5,10.6 2.7,10.6 L4.9,10.6 C5.1,10.6 5.2,10.7 5.2,10.9 C5.2,11.1 5,11.1 4.9,11.1 L2.7,11.1 C1.2,11.1 0,9.9 0,8.4 C0,7.3 0.6,6.4 1.6,5.9 C1.7,5.9 2,5.7 2,5.3 C2,2.5 4.6,0.3 7.9,0.3 C11.2,0.3 13.8,2.6 13.8,5.3 C13.8,5.5 13.9,5.7 13.9,5.7 C15.2,5.9 16.2,7 16.2,8.4 C16.1,9.9 14.9,11.1 13.4,11.1 Z" id="Path"></path>
+            <polygon id="Path" points="6.4 9.2 5.7 13.9 7.3 13.9 6.5 19.5 10.3 11.9 8.7 11.9 9.6 9.2"></polygon>
+        </g>
+    </g>
+</svg>
