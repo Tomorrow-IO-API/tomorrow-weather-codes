@@ -17,4 +17,4 @@ This project exists thanks to our very own designers - Elad Rahmin ([@EladRahmin
 ](https://twitter.com/veramordehayev))
 
 ### License ###
-Licensed under the [CC BY 4.0 License](./LICENSE) license.
+Licensed under the [CC BY 4.0 License](./LICENSE).
