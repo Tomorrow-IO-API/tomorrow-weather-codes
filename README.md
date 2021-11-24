@@ -14,15 +14,11 @@ Weather Codes V1 - SVG icons, colored and black, of all available weather codes:
 
 ### Usage ###
 Figam - Open source Figma canvas.
-<<<<<<< HEAD
-PNG
-=======
 
 PNG - Several size options.
 
 PDF - vector icons.
 
->>>>>>> 41d0ac521e8ed9e5d523c08ebb4c84bd8ce8d310
 Be sure to place a “Powered by Tomorrow.io attribution in your application if you use our icons.
 
 ### Contributors ###
