@@ -7,7 +7,7 @@ Is it foggy? Rainy? A clear day? If you need a description of what the weather i
 ### What's Included ###
 **Weather Codes V2** - PNG and PDF colored icons, of all new weather conditions including V1 weather conditions and additional V2 mixed weather conditions. 
 
-![Weather Code Icons](./Weathercodes Cover.png)
+![Weather Code Icons](./weathercodes_cover.svg)
 
 Weather Codes V1 - SVG icons, colored and black, of all available weather codes: `freezing_rain_heavy`, `freezing_rain`, `freezing_rain_light`, `freezing_drizzle`, `ice_pellets_heavy`, `ice_pellets`, `ice_pellets_light`, `snow_heavy`, `snow`, `snow_light`, `flurries`, `tstorm`, `rain_heavy`, `rain`, `rain_light`, `drizzle`, `fog_light`, `fog`, `cloudy`, `mostly_cloudy`, `partly_cloudy`, `mostly_clear`, `clear`
 
