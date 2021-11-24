@@ -5,7 +5,7 @@ Weather Code Icons
 Is it foggy? Rainy? A clear day? If you need a description of what the weather is like, simply request the weather code. As our beloved [Tomorrow.io API](https://docs.tomorrow.io/reference/data-layers-core) consumers, we provide full access to our library of weather icons. 
 
 ### What's Included ###
-**Weather Codes V2** - PNG and PDF colored icons, of all new weather conditions including V1 weather conditions and additional V2 mixed weather conditions, can be found in [V2_icons](./V2_icons). 
+**Weather Codes V2** - PNG and PDF colored icons, of all new weather conditions including V1 weather conditions and additional V2 mixed weather conditions, can be found in [V2 icons folder](./V2_icons). 
 
 ![Weather Code Icons](./weathercodes_cover.svg)
 
