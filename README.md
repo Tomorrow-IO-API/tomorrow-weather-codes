@@ -17,7 +17,7 @@ Figam - Open source Figma canvas.
 
 PNG - Several size options.
 
-PDF - vector icons.
+PDF - Vector icons.
 
 Be sure to place a “Powered by Tomorrow.io attribution in your application if you use our icons.
 
