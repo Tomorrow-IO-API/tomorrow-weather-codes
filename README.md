@@ -13,13 +13,13 @@ Weather Codes V1 - SVG icons, colored and black, of all available weather codes:
 
 
 ### Usage ###
-Figam - Open source Figma canvas.
+Figma - Open-source Figma canvas.
 
 PNG - Several size options.
 
 PDF - Vector icons.
 
-Be sure to place a “Powered by Tomorrow.io attribution in your application if you use our icons.
+Be sure to place a “Powered by Tomorrow.io” attribution in your application if you use our icons.
 
 ### Contributors ###
 This project exists thanks to our very own designers - Elad Rahmin ([@EladRahmin](https://twitter.com/EladRahmin)) and Vera Mordehayev ([@veramordehayev
