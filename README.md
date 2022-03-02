@@ -19,7 +19,7 @@ PNG - Several size options.
 
 PDF - Vector icons.
 
-Be sure to place a “Powered by Tomorrow.io" attribution in your application if you use our icons.
+Be sure to place a “Powered by Tomorrow.io” attribution in your application if you use our icons.
 
 ### Contributors ###
 This project exists thanks to our very own designers - Elad Rahmin ([@EladRahmin](https://twitter.com/EladRahmin)) and Vera Mordehayev ([@veramordehayev
